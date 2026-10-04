@@ -42,15 +42,15 @@ The application provides three main states:
 
 ### Initial Screen
 
-[Initial Screen](screenshots/initial_screen.png) ([image](screenshots/initial_screen.png))
+[Initial Screen](screenshots/initial_screen.png) ([image](screenshots/initial.png))
 
 ### Search Screen
 
-[Search Screen](screenshots/search_screen.png) ([image](screenshots/search_screen.png))
+[Search Screen](screenshots/search_screen.png) ([image](screenshots/correct.png))
 
 ### No-Result Screen
 
-[No-Result Screen](screenshots/no_result_screen.png) ([image](screenshots/no_result_screen.png))
+[No-Result Screen](screenshots/no_result_screen.png) ([image](screenshots/incorrect.png))
 
 ## Result
 
